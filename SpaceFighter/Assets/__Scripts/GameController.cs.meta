@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ff260524afd1aa349ab75a4f23cfcaf8
+timeCreated: 1521669421
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemy: {fileID: 1967291216231222, guid: 8cd43e3679112cd429f148f44884343b, type: 2}
+  - scoreText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - waveText: {instanceID: 0}
+  - hiscoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
